@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile preview](design%5Cmobile-design.jpg)
+![Mobile preview](design/mobile-design.jpg)
 
 ### Links
 
