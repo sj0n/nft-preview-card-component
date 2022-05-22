@@ -1,0 +1,62 @@
+@use 'color';
+@use 'font';
+
+.bg-darkblue {
+    background-color: color.$neutral-very-darkblue-mainbg;
+}
+
+.card-bg-darkblue {
+    background-color: color.$neutral-very-darkblue-cardbg;
+}
+
+.bd-color-darkblue {
+    border-color: color.$neutral-very-darkblue-line;
+}
+
+.pg-18 {
+    font-size: font.$paragraph-size;
+}
+
+.p-24 {
+    padding: 1.5rem;
+}
+
+.text-primary {
+    color: color.$primary-softblue;
+}
+
+.text-secondary {
+    color: color.$primary-cyan;
+}
+
+.text-white {
+    color: color.$neutral-white;
+}
+
+.br-10 {
+    border-radius: 0.625rem;
+}
+
+.br-circle {
+    border-radius: 100%;
+}
+
+.mr-5 {
+    margin-right: 5px;
+}
+
+.mr-10 {
+    margin-right: 10px;
+}
+
+.bc-white {
+    border-color: color.$neutral-white;
+}
+
+.bs-solid {
+    border-style: solid;
+}
+
+.bw-1 {
+    border-width: 1px;
+}

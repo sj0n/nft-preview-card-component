@@ -1,0 +1,17 @@
+@use 'scss/reset';
+@use 'scss/color';
+@use 'scss/font';
+@use 'scss/base';
+@use 'scss/composition';
+@use 'scss/utilities';
+@use 'scss/block';
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
