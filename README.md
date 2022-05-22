@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-scss-NZEIKDXoy_)
+- Live Site URL: [Preview](https://sj0n.github.io/nft-preview-card-component/)
 
 <br>
 
@@ -61,5 +61,4 @@ In this project I learned how to use SASS to improve my development experience c
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@sj0n](https://www.frontendmentor.io/profile/sj0n)
